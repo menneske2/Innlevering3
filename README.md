@@ -2,3 +2,4 @@
 All praise email gif.
 Now praise it again!
 Gruppelederen vår er en fitte.
+faen hvordan gjør jeg dette?
