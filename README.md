@@ -1,6 +1,9 @@
 # Innlevering3
-All praise email gif.
-Now praise it again!
-Gruppelederen vår er en fitte.
-faen hvordan gjør jeg dette?
-testing testing 123
+Designer: Fredrik Foss
+HR: Fredrik Kvalheim
+Rammekoding: Fredrik Foss
+Artikler (innhold): Kristian Hustad, Simon Gjøen
+Markedsføring: Storm Østberg
+Nav-bar og logo:Espen Bårdevik
+SQL: Marcus Benjamin Johanson
+Fitte: Gruppeleder
