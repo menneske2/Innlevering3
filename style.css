@@ -1,0 +1,21 @@
+body{
+    margin: 0px 15%;
+}
+section{
+	width:500px;
+}
+
+.firkant{
+	width: 200px;
+	height:200px;
+	float:left;
+}
+.lys{
+	background-color:  #A8C2E6;
+}
+.mørk{
+	background-color: #659DCB;
+}
+.hvit{
+	background-color: #FFFFFF;
+}
