@@ -1,7 +1,7 @@
 body{
-    margin: 300px 15%;
+    margin: 300px 20%;
 	background-image:url(img/background.png);
-	font-family: sans-serif;
+	font-family: verdana;
 }
 section{
 	width: 100%;
@@ -14,11 +14,9 @@ aside{
 	float:right;
 	width: 30%;
 	margin-left: 20px;
+	color:grey;
 }
 aside img{
 	width:100%;
 	margin-bottom: 5px;
-}
-.undertekst{
-	color:grey;
 }
