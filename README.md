@@ -15,5 +15,4 @@ SQL: Marcus Benjamin Johanson
 
 Fitte: Gruppeleder
 
-"I was elected to lead, not to read."
-    ~Storm Østberg
+"I was elected to lead, not to read."   ~Storm Østberg
