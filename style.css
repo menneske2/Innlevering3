@@ -1,14 +1,21 @@
 body{
-    margin: 300px 20%;
+    margin: 5% 15%;
 	background-image:url(img/background.png);
 	font-family: verdana;
+    min-width:500px;
 }
 section{
-	width: 100%;
-	min-height:400px;
-	background-color:#fafafa;
-	padding:15px;
-	border: 1px solid grey;
+    min-height:400px;
+    background-color:#fafafa;
+    padding:15px;
+    border: 1px solid grey;
+}
+section table{
+    margin-left: auto;
+    margin-right: auto;
+}
+section table td{
+    text-align: left;
 }
 aside{
 	float:right;
@@ -17,6 +24,63 @@ aside{
 	color:grey;
 }
 aside img{
-	width:100%;
-	margin-bottom: 5px;
+    width:100%;
+    margin-bottom: 5px;
+    
+}
+.undertekst{
+    color:grey;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color:white;
+    border: 1px solid grey;
+    margin-bottom: 15px;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a, .dropbtn {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover, .dropdown:hover .dropbtn {
+    background-color: rgb(225,240,255);
+    color:black;
+}
+
+nav li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgb(240,240,240);
+    min-width: 160px;
+}
+
+
+.dropdown-content a {
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    color:black;
+}
+
+.dropdown-content a:hover {
+    background-color: white;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
 }
